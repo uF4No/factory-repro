@@ -22,7 +22,7 @@ export default {
     },
   },
   zksolc: {
-    version: '1.3.7',
+    version: '1.3.8',
     compilerSource: 'binary',
     compilerPath: '/usr/local/bin/zksolc',
   },
